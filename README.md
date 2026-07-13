@@ -8,7 +8,7 @@ Mark tasks as completed
 
 Delete tasks
 
-not Responsive design(not compeleted)
+not Responsive design(not compeleted yet)
 
 # Installation
 Clone the repository
